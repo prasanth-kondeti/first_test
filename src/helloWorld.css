@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .left {
-    background-image: url(/static/media/bg.80ae679a.png);
+    background-image: url(./images_folder/bg.png);
     background-size: cover;
     height: 100%;
     color: white;
