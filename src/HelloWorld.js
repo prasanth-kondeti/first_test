@@ -10,7 +10,7 @@ class HelloWorld extends React.Component {
               <h1>BEEHIVE</h1>
             </div>
             <div className="right">
-              <p>Hi Riley Cooper!</p>
+              <p>Hi Riley Watson!</p>
               <p>Welcome To Beehive!</p>
               <button>Proceed</button>
             </div>
